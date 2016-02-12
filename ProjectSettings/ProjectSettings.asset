@@ -12,7 +12,7 @@ PlayerSettings:
   targetResolution: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Roll-A-Ball-sp16-2
+  productName: New Unity Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   defaultScreenWidth: 1024
@@ -71,7 +71,7 @@ PlayerSettings:
   iPhoneBundleIdentifier: com.Company.ProductName
   metroEnableIndependentInputSource: 0
   metroEnableLowLatencyPresentationAPI: 0
-  productGUID: 7aa6acc2b1fad48e4bb5e78f67de9e39
+  productGUID: 160e15a078a187e45b06199367aa19f8
   iPhoneBundleVersion: 1.0
   iPhoneShortBundleVersion: 1.0
   AndroidBundleVersionCode: 1
@@ -108,7 +108,7 @@ PlayerSettings:
   iOSLaunchScreenLandscape: {fileID: 0}
   iOSLaunchScreenBackgroundColor:
     serializedVersion: 2
-    rgba: 0
+    rgba: 4287465576
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
   iOSLaunchScreenCustomXibPath: 
@@ -163,7 +163,7 @@ PlayerSettings:
   flashStrippingLevel: 2
   spritePackerPolicy: 
   scriptingDefineSymbols: {}
-  metroPackageName: Roll-A-Ball-sp16-2
+  metroPackageName: New Unity Project
   metroPackageLogo: 
   metroPackageLogo140: 
   metroPackageLogo180: 
@@ -174,7 +174,7 @@ PlayerSettings:
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Roll-A-Ball-sp16-2
+  metroApplicationDescription: New Unity Project
   metroStoreTileLogo80: 
   metroStoreTileLogo: 
   metroStoreTileLogo140: 
